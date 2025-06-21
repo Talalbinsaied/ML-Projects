@@ -19,7 +19,7 @@ This repository showcases a collection of my machine learning and data analysis 
 |---------------------|----------------------------------------------------------------|----------------------------------------|
 | Cancer Prediction | Predicting whether a person is likely to have cancer using Logistc Regression | Logistic Regression  |
 | Cars Purchase Prediction | Predicting whether a person is likely to purchase a car or not     | Decision Tree, XGBoost, GridSearchCV, Confusion Matrix |
-| Iphone Purchase Prediction | Predictin whether a preson is likely to purchase an iphone or not | KNN, Cross Val Score, Confusion Matrix |
+| Iphone Purchase Prediction | Predicting whether a preson is likely to purchase an iphone or not | KNN, Cross Val Score, Confusion Matrix |
 ---
 
 ## 🚀 My Goal
