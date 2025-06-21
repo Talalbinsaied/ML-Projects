@@ -11,9 +11,6 @@ This repository showcases a collection of my machine learning and data analysis 
 - Matplotlib
 - Seaborn
 - Numpy
-- ة
-- وة
-
 ---
 
 ## 📂 Project List
