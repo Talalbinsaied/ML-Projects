@@ -1,6 +1,6 @@
 # 💻 Machine Learning Projects – Talal Bin Saeed
 
-Hi! I'm **Talal Bin Saeed**, a graduate of **Management Information Systems** from **King Saud University**.  
+Hi! I'm **Talal Bin Saied**, a graduate of **Management Information Systems** from **King Saud University**.  
 I'm passionate about **data science** and **machine learning**, and I enjoy applying what I learn through real-world projects that involve data analysis, visualization, and model building.
 
 This repository showcases a collection of my machine learning and data analysis projects, built using tools such as:
