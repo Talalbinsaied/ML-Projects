@@ -13,15 +13,6 @@ This repository showcases a collection of my machine learning and data analysis 
 - Numpy
 ---
 
-## 📂 Project List
-
-| Project Name        | Description                                                    | Technologies Used                      |
-|---------------------|----------------------------------------------------------------|----------------------------------------|
-| Cancer Prediction | Predicting whether a person is likely to have cancer ( using Logistc Regression ) | Logistic Regression  |
-| Cars Purchase Prediction | Predicting whether a person is likely to purchase a car or not ( using Decision Tree )    | Decision Tree, XGBoost, GridSearchCV, Confusion Matrix |
-| Iphone Purchase Prediction | Predicting whether a preson is likely to purchase an iphone or not ( using KNN ) | KNN, Cross Val Score, Confusion Matrix |
----
-
 ## 🚀 My Goal
 
 I'm actively working on improving my skills in data science and AI.  
