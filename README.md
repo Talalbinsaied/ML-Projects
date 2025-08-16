@@ -23,7 +23,7 @@ My goal is to contribute to a data-driven organization and use data to solve rea
 ## 📬 Contact
 
 - 📧 Email: [talalbinsaied@gmail.com]  
-- 💼 LinkedIn: []
+
 
 ---
 
