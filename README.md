@@ -5,12 +5,17 @@ I'm passionate about **data science** and **machine learning**, and I enjoy appl
 
 This repository showcases a collection of my machine learning and data analysis projects, built using tools such as:
 - Python 🐍
+- Linear regression
+- Logistic regression
+- Decision trees
+- Neural networks
 - Scikit-learn
-- XGBoost
+- TensorFlow
 - Pandas
 - Matplotlib
 - Seaborn
-- Numpy
+- Plotly
+- NumPy
 ---
 
 ## 🚀 My Goal
